@@ -1,32 +1,8 @@
 == OpenFrameworks Basic Project Template
 
-
-
-
-
-
-                                                               .---.
-                                                              /  .  \
-                                                             |\_/|   |
-                                                             |   |  /|
-  .----------------------------------------------------------------' |
- /  .-.                                                              |
-|  /   \                                                             |
-| |\_.  |       A simple project template for OF with a              |
-|\|  | /|       ViewController singelton and a BaseView              |
-| `---' |       template to extend.                                  |
-|       |                                                            | *
-|       |                                                           /
-|       |----------------------------------------------------------'
-\       |
- \     /
-  `---'
-
-
-
-
-
-
+A simple project template for OF with a
+ViewController singelton and a BaseView
+template to extend.
 
 
              ____
