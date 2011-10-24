@@ -1,0 +1,5 @@
+== OpenFrameworks Basic Project Template
+
+A simple project template for OF with a
+ViewController singelton and a BaseView
+template to extend.
